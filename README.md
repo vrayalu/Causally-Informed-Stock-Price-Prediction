@@ -4,9 +4,16 @@
 
 ## Overview
 
-This project explores how causal discovery can be used to improve stock price prediction. We apply the CD-NOD algorithm to uncover causal relationships in financial time series data — identifying stocks that influence the target stock (Boeing, Ticker: BA) — and compare performance between a baseline LSTM model and a causally-informed LSTM that uses these causal features.
+This project explores how causal discovery can be used to improve stock price prediction. We apply the CD‑NOD algorithm to uncover causal relationships in financial time series data — identifying stocks that influence the target stock (Boeing, Ticker: BA) — and compare performance between a baseline LSTM model and a causally‑informed LSTM that uses these causal features.
 
-The work was completed as a course project for DSC 245: Causal Inference at UC San Diego.
+The work was completed as a course project for DSC 245: Causal Inference at UC San Diego.
+
+---
+
+📄 **Full Project Report:** [Read the detailed write‑up (PDF)](./Causal%20Discovery%20for%20Enhanced%20Stock%20Price%20Prediction.pdf)  
+🔖 **Step‑by‑step Notebooks:**  
+- [01_data_preprocessing_and_causal_discovery.ipynb](./01_data_preprocessing_and_causal_discovery.ipynb)  
+- [02_model_training_and_evaluation.ipynb](./02_model_training_and_evaluation.ipynb)
 
 ---
 
