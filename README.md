@@ -90,7 +90,3 @@ Both models use the same LSTM structure with:
 
 ---
 
-## Report
-
-📄 You can read the full paper [here](./Causal%20Discovery%20for%20Enhanced%20Stock%20Price%20Prediction.pdf).
-
