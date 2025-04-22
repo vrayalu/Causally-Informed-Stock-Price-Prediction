@@ -11,9 +11,6 @@ The work was completed as a course project for DSC 245: Causal Inference at UC�
 ---
 
 📄 **Full Project Report:** [Read the detailed write‑up (PDF)](./Causal%20Discovery%20for%20Enhanced%20Stock%20Price%20Prediction.pdf)  
-🔖 **Step‑by‑step Notebooks:**  
-- [01_data_preprocessing_and_causal_discovery.ipynb](./01_data_preprocessing_and_causal_discovery.ipynb)  
-- [02_model_training_and_evaluation.ipynb](./02_model_training_and_evaluation.ipynb)
 
 ---
 
